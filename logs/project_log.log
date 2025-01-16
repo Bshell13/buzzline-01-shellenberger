@@ -133,3 +133,134 @@
 2025-01-15 20:46:32.491 | INFO     | __main__:main:114 - On, Sunday, the high will be 72 and partly cloudy.
 2025-01-15 20:46:35.492 | INFO     | __main__:main:114 - On, Saturday, the high will be 64 and sunny.
 2025-01-15 20:46:38.493 | INFO     | __main__:main:114 - On, Saturday, the high will be 75 and sunny.
+2025-01-15 20:47:27.696 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 20:47:27.698 | INFO     | __main__:main:106 - START producer...
+2025-01-15 20:47:27.708 | INFO     | __main__:main:107 - Hit CTRL c (or CMD c) to close.
+2025-01-15 20:47:27.709 | INFO     | __main__:get_message_interval:53 - Messages will be sent every 3 seconds.
+2025-01-15 20:47:27.710 | INFO     | __main__:main:114 - On Thursday, the high will be 80 and mostly cloudy.
+2025-01-15 20:47:30.745 | INFO     | __main__:main:114 - On Sunday, the high will be 75 and sunny.
+2025-01-15 20:47:33.748 | INFO     | __main__:main:114 - On Friday, the high will be 79 and mostly cloudy.
+2025-01-15 20:47:36.750 | INFO     | __main__:main:114 - On Tuesday, the high will be 80 and cloudy.
+2025-01-15 20:47:39.751 | INFO     | __main__:main:114 - On Saturday, the high will be 79 and mostly cloudy.
+2025-01-15 20:47:42.753 | INFO     | __main__:main:114 - On Monday, the high will be 75 and mostly cloudy.
+2025-01-15 20:47:45.755 | INFO     | __main__:main:114 - On Tuesday, the high will be 72 and mostly cloudy.
+2025-01-15 20:47:48.757 | INFO     | __main__:main:114 - On Friday, the high will be 64 and mostly cloudy.
+2025-01-15 20:47:51.763 | INFO     | __main__:main:114 - On Sunday, the high will be 72 and sunny.
+2025-01-15 20:47:54.765 | INFO     | __main__:main:114 - On Monday, the high will be 75 and cloudy.
+2025-01-15 20:47:57.773 | INFO     | __main__:main:114 - On Saturday, the high will be 72 and cloudy.
+2025-01-15 20:48:00.782 | INFO     | __main__:main:114 - On Monday, the high will be 80 and mostly cloudy.
+2025-01-15 20:48:03.784 | INFO     | __main__:main:114 - On Tuesday, the high will be 75 and partly cloudy.
+2025-01-15 20:48:06.786 | INFO     | __main__:main:114 - On Thursday, the high will be 75 and partly cloudy.
+2025-01-15 20:48:09.791 | INFO     | __main__:main:114 - On Tuesday, the high will be 72 and cloudy.
+2025-01-15 20:48:12.808 | INFO     | __main__:main:114 - On Wednesday, the high will be 72 and mostly cloudy.
+2025-01-15 20:48:15.811 | INFO     | __main__:main:114 - On Sunday, the high will be 64 and mostly cloudy.
+2025-01-15 20:48:18.864 | INFO     | __main__:main:114 - On Sunday, the high will be 79 and mostly cloudy.
+2025-01-15 20:48:21.866 | INFO     | __main__:main:114 - On Monday, the high will be 79 and sunny.
+2025-01-15 20:48:24.868 | INFO     | __main__:main:114 - On Saturday, the high will be 75 and mostly cloudy.
+2025-01-15 20:48:27.870 | INFO     | __main__:main:114 - On Thursday, the high will be 79 and mostly cloudy.
+2025-01-15 20:48:30.872 | INFO     | __main__:main:114 - On Sunday, the high will be 65 and mostly cloudy.
+2025-01-15 20:48:33.894 | INFO     | __main__:main:114 - On Sunday, the high will be 79 and sunny.
+2025-01-15 20:48:36.897 | INFO     | __main__:main:114 - On Monday, the high will be 75 and partly cloudy.
+2025-01-15 20:48:39.899 | INFO     | __main__:main:114 - On Thursday, the high will be 64 and mostly cloudy.
+2025-01-15 20:48:42.903 | INFO     | __main__:main:114 - On Friday, the high will be 75 and cloudy.
+2025-01-15 20:48:45.904 | INFO     | __main__:main:114 - On Monday, the high will be 64 and mostly cloudy.
+2025-01-15 20:48:48.906 | INFO     | __main__:main:114 - On Monday, the high will be 64 and mostly cloudy.
+2025-01-15 20:48:51.909 | INFO     | __main__:main:114 - On Tuesday, the high will be 79 and mostly cloudy.
+2025-01-15 20:48:54.911 | INFO     | __main__:main:114 - On Wednesday, the high will be 64 and cloudy.
+2025-01-15 20:48:57.913 | INFO     | __main__:main:114 - On Thursday, the high will be 79 and cloudy.
+2025-01-15 20:49:00.914 | INFO     | __main__:main:114 - On Wednesday, the high will be 72 and partly cloudy.
+2025-01-15 20:49:03.916 | INFO     | __main__:main:114 - On Wednesday, the high will be 64 and partly cloudy.
+2025-01-15 20:49:06.919 | INFO     | __main__:main:114 - On Thursday, the high will be 80 and sunny.
+2025-01-15 20:49:09.921 | INFO     | __main__:main:114 - On Wednesday, the high will be 64 and cloudy.
+2025-01-15 20:49:12.923 | INFO     | __main__:main:114 - On Thursday, the high will be 72 and partly cloudy.
+2025-01-15 20:49:15.925 | INFO     | __main__:main:114 - On Friday, the high will be 79 and partly cloudy.
+2025-01-15 20:49:18.926 | INFO     | __main__:main:114 - On Friday, the high will be 75 and mostly cloudy.
+2025-01-15 20:49:19.666 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-01-15 20:49:19.666 | INFO     | __main__:main:68 - START...
+2025-01-15 20:49:19.667 | INFO     | __main__:main:74 - Reading file located at logs\project_log.log.
+2025-01-15 20:49:21.933 | INFO     | __main__:main:114 - On Friday, the high will be 80 and mostly cloudy.
+2025-01-15 20:49:24.935 | INFO     | __main__:main:114 - On Friday, the high will be 72 and mostly cloudy.
+2025-01-15 20:49:27.937 | INFO     | __main__:main:114 - On Friday, the high will be 80 and cloudy.
+2025-01-15 20:49:30.938 | INFO     | __main__:main:114 - On Monday, the high will be 75 and sunny.
+2025-01-15 20:49:33.941 | INFO     | __main__:main:114 - On Friday, the high will be 65 and mostly cloudy.
+2025-01-15 20:49:36.943 | INFO     | __main__:main:114 - On Wednesday, the high will be 80 and mostly cloudy.
+2025-01-15 20:49:39.944 | INFO     | __main__:main:114 - On Sunday, the high will be 65 and cloudy.
+2025-01-15 20:49:42.946 | INFO     | __main__:main:114 - On Monday, the high will be 75 and cloudy.
+2025-01-15 20:49:45.948 | INFO     | __main__:main:114 - On Tuesday, the high will be 65 and cloudy.
+2025-01-15 20:49:48.950 | INFO     | __main__:main:114 - On Sunday, the high will be 64 and mostly cloudy.
+2025-01-15 20:49:51.951 | INFO     | __main__:main:114 - On Sunday, the high will be 79 and sunny.
+2025-01-15 20:49:54.953 | INFO     | __main__:main:114 - On Wednesday, the high will be 72 and sunny.
+2025-01-15 20:49:57.954 | INFO     | __main__:main:114 - On Thursday, the high will be 72 and partly cloudy.
+2025-01-15 20:50:00.957 | INFO     | __main__:main:114 - On Friday, the high will be 80 and mostly cloudy.
+2025-01-15 20:50:03.958 | INFO     | __main__:main:114 - On Thursday, the high will be 65 and cloudy.
+2025-01-15 20:50:06.962 | INFO     | __main__:main:114 - On Saturday, the high will be 80 and sunny.
+2025-01-15 20:50:09.964 | INFO     | __main__:main:114 - On Wednesday, the high will be 64 and partly cloudy.
+2025-01-15 20:50:12.965 | INFO     | __main__:main:114 - On Thursday, the high will be 75 and partly cloudy.
+2025-01-15 20:50:15.970 | INFO     | __main__:main:114 - On Wednesday, the high will be 79 and mostly cloudy.
+2025-01-15 20:50:18.972 | INFO     | __main__:main:114 - On Friday, the high will be 72 and partly cloudy.
+2025-01-15 20:50:21.985 | INFO     | __main__:main:114 - On Monday, the high will be 80 and partly cloudy.
+2025-01-15 20:50:24.986 | INFO     | __main__:main:114 - On Sunday, the high will be 79 and mostly cloudy.
+2025-01-15 20:50:27.989 | INFO     | __main__:main:114 - On Tuesday, the high will be 72 and cloudy.
+2025-01-15 20:50:30.991 | INFO     | __main__:main:114 - On Friday, the high will be 65 and cloudy.
+2025-01-15 20:50:33.993 | INFO     | __main__:main:114 - On Thursday, the high will be 80 and mostly cloudy.
+2025-01-15 20:50:36.996 | INFO     | __main__:main:114 - On Friday, the high will be 75 and sunny.
+2025-01-15 20:50:39.998 | INFO     | __main__:main:114 - On Monday, the high will be 65 and partly cloudy.
+2025-01-15 20:50:43.001 | INFO     | __main__:main:114 - On Friday, the high will be 79 and mostly cloudy.
+2025-01-15 20:50:46.003 | INFO     | __main__:main:114 - On Wednesday, the high will be 72 and mostly cloudy.
+2025-01-15 20:50:49.005 | INFO     | __main__:main:114 - On Wednesday, the high will be 75 and cloudy.
+2025-01-15 20:50:52.014 | INFO     | __main__:main:114 - On Tuesday, the high will be 72 and cloudy.
+2025-01-15 20:50:55.016 | INFO     | __main__:main:114 - On Friday, the high will be 80 and partly cloudy.
+2025-01-15 20:50:58.017 | INFO     | __main__:main:114 - On Thursday, the high will be 65 and mostly cloudy.
+2025-01-15 20:51:01.019 | INFO     | __main__:main:114 - On Saturday, the high will be 79 and partly cloudy.
+2025-01-15 20:51:04.052 | INFO     | __main__:main:114 - On Wednesday, the high will be 75 and mostly cloudy.
+2025-01-15 20:51:07.070 | INFO     | __main__:main:114 - On Sunday, the high will be 75 and cloudy.
+2025-01-15 20:51:10.072 | INFO     | __main__:main:114 - On Saturday, the high will be 72 and cloudy.
+2025-01-15 20:51:13.077 | INFO     | __main__:main:114 - On Monday, the high will be 64 and cloudy.
+2025-01-15 20:51:16.080 | INFO     | __main__:main:114 - On Monday, the high will be 72 and partly cloudy.
+2025-01-15 20:51:19.081 | INFO     | __main__:main:114 - On Thursday, the high will be 65 and cloudy.
+2025-01-15 20:51:22.084 | INFO     | __main__:main:114 - On Saturday, the high will be 79 and partly cloudy.
+2025-01-15 20:51:25.086 | INFO     | __main__:main:114 - On Wednesday, the high will be 79 and mostly cloudy.
+2025-01-15 20:51:28.087 | INFO     | __main__:main:114 - On Wednesday, the high will be 80 and mostly cloudy.
+2025-01-15 20:51:31.089 | INFO     | __main__:main:114 - On Wednesday, the high will be 80 and sunny.
+2025-01-15 20:51:34.091 | INFO     | __main__:main:114 - On Friday, the high will be 80 and mostly cloudy.
+2025-01-15 20:51:37.093 | INFO     | __main__:main:114 - On Wednesday, the high will be 65 and sunny.
+2025-01-15 20:51:40.096 | INFO     | __main__:main:114 - On Friday, the high will be 75 and sunny.
+2025-01-15 20:51:43.097 | INFO     | __main__:main:114 - On Sunday, the high will be 65 and mostly cloudy.
+2025-01-15 20:51:46.106 | INFO     | __main__:main:114 - On Tuesday, the high will be 65 and cloudy.
+2025-01-15 20:51:49.136 | INFO     | __main__:main:114 - On Saturday, the high will be 64 and cloudy.
+2025-01-15 20:51:52.137 | INFO     | __main__:main:114 - On Wednesday, the high will be 79 and sunny.
+2025-01-15 20:51:55.139 | INFO     | __main__:main:114 - On Friday, the high will be 79 and sunny.
+2025-01-15 20:51:58.142 | INFO     | __main__:main:114 - On Saturday, the high will be 64 and sunny.
+2025-01-15 20:52:01.145 | INFO     | __main__:main:114 - On Sunday, the high will be 80 and mostly cloudy.
+2025-01-15 20:52:04.147 | INFO     | __main__:main:114 - On Thursday, the high will be 65 and mostly cloudy.
+2025-01-15 20:52:07.153 | INFO     | __main__:main:114 - On Saturday, the high will be 72 and partly cloudy.
+2025-01-15 20:52:10.155 | INFO     | __main__:main:114 - On Saturday, the high will be 75 and cloudy.
+2025-01-15 20:52:13.158 | INFO     | __main__:main:114 - On Friday, the high will be 65 and partly cloudy.
+2025-01-15 20:52:16.159 | INFO     | __main__:main:114 - On Thursday, the high will be 80 and partly cloudy.
+2025-01-15 20:52:19.164 | INFO     | __main__:main:114 - On Friday, the high will be 72 and cloudy.
+2025-01-15 20:52:22.167 | INFO     | __main__:main:114 - On Sunday, the high will be 72 and sunny.
+2025-01-15 20:52:25.171 | INFO     | __main__:main:114 - On Friday, the high will be 79 and sunny.
+2025-01-15 20:52:28.173 | INFO     | __main__:main:114 - On Sunday, the high will be 75 and partly cloudy.
+2025-01-15 20:52:31.175 | INFO     | __main__:main:114 - On Saturday, the high will be 75 and partly cloudy.
+2025-01-15 20:52:34.177 | INFO     | __main__:main:114 - On Saturday, the high will be 79 and partly cloudy.
+2025-01-15 20:52:37.180 | INFO     | __main__:main:114 - On Thursday, the high will be 64 and mostly cloudy.
+2025-01-15 20:52:40.182 | INFO     | __main__:main:114 - On Monday, the high will be 79 and partly cloudy.
+2025-01-15 20:52:43.195 | INFO     | __main__:main:114 - On Friday, the high will be 75 and sunny.
+2025-01-15 20:52:46.196 | INFO     | __main__:main:114 - On Friday, the high will be 65 and sunny.
+2025-01-15 20:52:49.198 | INFO     | __main__:main:114 - On Monday, the high will be 75 and partly cloudy.
+2025-01-15 20:52:52.200 | INFO     | __main__:main:114 - On Sunday, the high will be 65 and sunny.
+2025-01-15 20:52:55.201 | INFO     | __main__:main:114 - On Saturday, the high will be 72 and cloudy.
+2025-01-15 20:52:58.204 | INFO     | __main__:main:114 - On Friday, the high will be 80 and sunny.
+2025-01-15 20:53:01.206 | INFO     | __main__:main:114 - On Friday, the high will be 64 and partly cloudy.
+2025-01-15 20:53:04.208 | INFO     | __main__:main:114 - On Thursday, the high will be 65 and mostly cloudy.
+2025-01-15 20:53:07.209 | INFO     | __main__:main:114 - On Sunday, the high will be 79 and partly cloudy.
+2025-01-15 20:53:10.211 | INFO     | __main__:main:114 - On Tuesday, the high will be 72 and mostly cloudy.
+2025-01-15 20:53:13.214 | INFO     | __main__:main:114 - On Tuesday, the high will be 65 and sunny.
+2025-01-15 20:53:16.217 | INFO     | __main__:main:114 - On Friday, the high will be 72 and mostly cloudy.
+2025-01-15 20:53:19.219 | INFO     | __main__:main:114 - On Wednesday, the high will be 75 and partly cloudy.
+2025-01-15 20:53:22.221 | INFO     | __main__:main:114 - On Sunday, the high will be 72 and partly cloudy.
+2025-01-15 20:53:25.223 | INFO     | __main__:main:114 - On Sunday, the high will be 75 and mostly cloudy.
+2025-01-15 20:53:28.225 | INFO     | __main__:main:114 - On Monday, the high will be 80 and cloudy.
+2025-01-15 20:53:30.890 | INFO     | __main__:main:85 - END.....
+2025-01-15 20:53:31.226 | INFO     | __main__:main:114 - On Friday, the high will be 64 and mostly cloudy.
+2025-01-15 20:53:34.227 | INFO     | __main__:main:114 - On Monday, the high will be 80 and cloudy.
