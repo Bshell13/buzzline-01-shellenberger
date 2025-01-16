@@ -83,7 +83,7 @@ def generate_messages():
         temperatures = random.choice(TEMPERATURES)
         over_cast = random.choice(OVER_CAST)
         days_of_week = random.choice(DAYS_OF_WEEK)
-        yield f"On, {days_of_week}, the high will be {temperatures} and {over_cast}."
+        yield f"On {days_of_week}, the high will be {temperatures} and {over_cast}."
 
 
 #####################################
