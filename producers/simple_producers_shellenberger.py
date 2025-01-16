@@ -59,9 +59,9 @@ def get_message_interval() -> int:
 #####################################
 
 # Define some lists for generating buzz messages
-ADJECTIVES: list = ["amazing", "funny", "boring", "exciting", "weird"]
-ACTIONS: list = ["found", "saw", "tried", "shared", "loved"]
-TOPICS: list = ["a movie", "a meme", "an app", "a trick", "a story"]
+TEMPERATURES: list = ["80", "75", "64", "72", "79", "65"]
+OVER_CAST: list = ["cloudy", "partly cloudy", "mostly cloudy", "sunny"]
+DAYS_OF_WEEK: list = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
 
 #####################################
 # Define a function to generate buzz messages
@@ -80,10 +80,10 @@ def generate_messages():
     until we close the window or hit CTRL c (CMD c on Mac/Linux).
     """
     while True:
-        adjective = random.choice(ADJECTIVES)
-        action = random.choice(ACTIONS)
-        topic = random.choice(TOPICS)
-        yield f"I just {action} {topic}! It was {adjective}."
+        temperatures = random.choice(TEMPERATURES)
+        over_cast = random.choice(OVER_CAST)
+        days_of_week = random.choice(DAYS_OF_WEEK)
+        yield f"On, {days_of_week}, the high will be {temperatures} and {over_cast}."
 
 
 #####################################
